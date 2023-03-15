@@ -5,9 +5,9 @@ Steps to Run this Web-App
 
     git clone https://github.com/dipak2811/Created-First-React-App.git
     
-    cd Created-First-React-App
-    
     git checkout Featcher
+    
+    cd Created-First-React-App
     
 2) Now if you have node installed in your system run below command in terminal inside Created-First-React-App(if not installed install first)
 
