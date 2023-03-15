@@ -11,6 +11,8 @@ Steps to Run this Web-App
     
 2) Now if you have node installed in your system run below command in terminal inside Created-First-React-App(if not installed install first)
 
+    npm install
+    
     npm start
     
 3)This is the output photo when you run the App
