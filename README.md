@@ -2,8 +2,6 @@
 
 Steps to Run this Web-App
 1) First Clone this repository using below commands
-
-    git clone https://github.com/dipak2811/Created-First-React-App.git
     
     git checkout Featcher
     
